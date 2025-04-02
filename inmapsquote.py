@@ -1,6 +1,6 @@
 import streamlit as st
 
-# Page configuration
+## Page configuration
 st.set_page_config(page_title="InMaps Quote Generator", layout="centered")
 st.title("InMaps Quote Request Form")
 
