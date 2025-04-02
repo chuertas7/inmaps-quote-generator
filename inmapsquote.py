@@ -103,9 +103,3 @@ if st.button("Generate Quote"):
 
     st.caption("This quote includes a 40% profit margin.")
 
-git init
-git remote add origin https://github.com/YOUR_USERNAME/inmaps-quote-generator.git
-git add inmaps_app.py
-git commit -m "Initial quote generator app"
-git push -u origin master
-
